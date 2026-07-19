@@ -31,6 +31,8 @@ Three sample images are included.
 
 Each image shows the image labeled by RoboFlow (rectangles appear because they have been segmented with only four points), which are assumed to correspond to the tumor's location, and the image predicted and segmented by the model.
 
+![Figure 1](https://github.com/ablanco1950/BrainTumorsSegmentation_yolo26/blob/main/Figure_1.png)
+
 TRAINING:
 
 The best.pt model was obtained by running the program
