@@ -15,7 +15,7 @@ If you have an older version of YOLO, you must update it, otherwise the YOLO26 m
 
 `pip install -U ultralytics`
 
-Otherwise, you must reinstall it.
+Otherwise, you must install it.
 
 `pip install ultralytics`
 
