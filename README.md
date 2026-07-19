@@ -31,7 +31,7 @@ Three sample images are included.
 
 Each image shows the image labeled by RoboFlow (rectangles appear because they have been segmented with only four points), which are assumed to correspond to the tumor's location, and the image predicted and segmented by the model.
 
-``` TRAINING:
+TRAINING:
 
 The best.pt model was obtained by running the program
 
