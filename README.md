@@ -48,7 +48,7 @@ TrainBrainTumorsSegmentation_yolo26.py
 
 With 200 epochs.
 
-In each epoch, the best and latest models are stored in the directory
+In each epoch, the best and latest models are stored in the directory:
 
 runs/segment/entrenamientos_yolo26/segmentacion_custom/weights
 
