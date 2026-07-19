@@ -35,7 +35,9 @@ TRAINING:
 
 The best.pt model was obtained by running the program
 
-TrainBrainTumorsSegmentation_yolo26.py 200 times.
+TrainBrainTumorsSegmentation_yolo26.py 
+
+With 200 epochs.
 
 In each epoch, the best and latest models are stored in the directory
 
