@@ -57,4 +57,4 @@ A folder named segmentacion_custom is created with each run.
 The folder segmentacion_custom-3.zip containing the reports generated during training is included.
 
 The document LOG200epochTrainBrainTumorsSegmentation_yolo26.docx, containing the console messages during training, is also included, resulting in an mAP50 of 0.81 and an mAP50-95 of 0.561.
-Enviar comentarios
+
