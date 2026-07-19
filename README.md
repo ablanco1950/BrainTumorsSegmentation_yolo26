@@ -33,6 +33,13 @@ Each image shows the image labeled by RoboFlow (rectangles appear because they h
 
 ![Figure 1](https://github.com/ablanco1950/BrainTumorsSegmentation_yolo26/blob/main/Figure_1.png)
 
+
+![Figure 2](https://github.com/ablanco1950/BrainTumorsSegmentation_yolo26/blob/main/Figure_2.png)
+
+
+![Figure 3](https://github.com/ablanco1950/BrainTumorsSegmentation_yolo26/blob/main/Figure_3.png)
+
+
 TRAINING:
 
 The best.pt model was obtained by running the program
